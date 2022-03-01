@@ -1,12 +1,12 @@
 .jumbotron {
 
-	height: 200px;
+	/*height: 100px;*/
 	padding: 40px;
 	text-align: center;	
-    /*background-color: #1A5489;
-	height: 100%;
-	width: 100%;*/
-	background-image: url('images/back.JPG');
+    background-color: #797c7c;
+	max-width: 100%;
+	height: auto;
+	/*background-image: url('images/back.JPG');*/
 	background-size: cover;
 }
 
