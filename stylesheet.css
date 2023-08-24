@@ -1,12 +1,12 @@
 .jumbotron {
 
-	/*height: 100px;*/
-	padding: 40px;
+	height: 200px;
+	padding: 80px;
 	text-align: center;	
     background-color: #797c7c;
 	max-width: 100%;
 	height: auto;
-	/*background-image: url('images/back.JPG');*/
+	background-image: url('images/back.JPG');
 	background-size: cover;
 }
 
@@ -86,9 +86,10 @@ float:left;
 .homebody .container h4{
     font-weight: normal;
     color: rgb(0, 0, 0);
-    font-size:20px;
-    font-family:'Courier New', Courier, monospace;
-	padding:10px;
+    font-size:22px;
+    font-family:'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+	padding:15px;
+	text-align: justify;
     }
 
 
@@ -96,16 +97,18 @@ float:left;
     font-weight: bold;
     /*padding:10px;*/
     color: rgb(30,30,100);
-    font-size:25px;
+    font-size:30px;
     font-family: Garamond;
+	text-align: center;
     }
 
 .homebody .container h6{
     font-weight: normal;
     color: rgb(0, 0, 0);
     font-size:22px;
-    font-family:'Courier New', Courier, monospace;
-	padding:10px;
+    font-family:'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+	padding:15px;
+	text-align: justify;
     }
 
 .homebody .container li{
