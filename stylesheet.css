@@ -6,7 +6,7 @@
     background-color: #797c7c;
 	max-width: 100%;
 	height: auto;
-	background-image: url('./images/back.JPG');
+	background-image: url("back.JPG");
 	background-size: cover;
 }
 
