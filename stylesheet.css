@@ -96,7 +96,7 @@ float:left;
 	font-weight: 350;
 	color: rgb(40, 38, 38);
 	font-size:25px;
-	font-family:'Garamond','Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+	font-family:'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 	padding:10px;
 	text-align: justify;
 	}
@@ -106,7 +106,7 @@ float:left;
     /*padding:10px;*/
     color: rgb(30,30,100);
     font-size:30px;
-    font-family: 'Garamond','Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    font-family: 'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 	text-align: center;
     }
 
