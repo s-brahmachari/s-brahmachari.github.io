@@ -152,9 +152,9 @@ float:left;
 	height: 200px;
 }
 .with-bg-img{
-	background-image: url('./images/trimmed_chr10.gif');
-	width: 220px;
-	height: 220px;
+	background-image: url('./images/chr10.gif');
+	width: 200px;
+	height: 245px;
 	float: right;
 	background-position: center;
 	background-size: cover;
