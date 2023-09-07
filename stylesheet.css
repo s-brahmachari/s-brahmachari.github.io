@@ -19,8 +19,8 @@ float:left;
 	position:relative;
 	top:-10px;
     color: #FFFFFF;
-    font-family:Garamond;
-    font-weight: bold;
+    font-family: 'Calibri';
+    font-weight: 800;
 
 }
 
@@ -84,21 +84,29 @@ float:left;
 }
 
 .homebody .container h4{
-    font-weight: normal;
-    color: rgb(0, 0, 0);
-    font-size:22px;
+    font-weight: 330;
+    color: rgb(40, 38, 38);
+    font-size:20px;
     font-family:'Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 	padding:15px;
 	text-align: justify;
     }
 
+.homebody .container h7{
+	font-weight: 350;
+	color: rgb(40, 38, 38);
+	font-size:25px;
+	font-family:'Garamond','Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+	padding:10px;
+	text-align: justify;
+	}
 
 .homebody .container h3{
-    font-weight: bold;
+    font-weight: 600;
     /*padding:10px;*/
     color: rgb(30,30,100);
     font-size:30px;
-    font-family: Garamond;
+    font-family: 'Garamond','Calibri', 'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
 	text-align: center;
     }
 
@@ -117,3 +125,37 @@ float:left;
 }
 
 
+
+.homebody .container img_style{
+	float: right; 
+	margin:18px;
+}
+
+.img{
+	object-fit: cover;
+}
+/* .crop {
+	width: 220px;
+	height: 190px;
+	overflow: hidden;
+
+}
+.crop img {
+	height: 400px;
+	width: 400px;
+	margin: -100px -40px -10px -100px;
+  }
+   */
+.centered-crop{
+	object-fit: cover;
+	width: 200px;
+	height: 200px;
+}
+.with-bg-img{
+	background-image: url('./images/trimmed_chr10.gif');
+	width: 220px;
+	height: 220px;
+	float: right;
+	background-position: center;
+	background-size: cover;
+}
