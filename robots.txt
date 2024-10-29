@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /pdfs/    # Block access to the /private/ directory
+Disallow: /images/       # Block access to the /temp/ directory
+
