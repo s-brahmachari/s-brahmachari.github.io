@@ -1,0 +1,17 @@
+sitemap:
+  - url: https://s-brahmachari.github.io/
+    lastmod: 2024-10-28
+    changefreq: monthly
+    priority: 1.0
+
+  - url: https://s-brahmachari.github.io/index
+    lastmod: 2024-10-28
+    changefreq: monthly
+    priority: 0.8
+
+  - url: https://s-brahmachari.github.io/research
+    lastmod: 2024-10-28
+    changefreq: monthly
+    priority: 0.9
+
+  # Add more URLs as needed
